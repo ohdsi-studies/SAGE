@@ -2,16 +2,33 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "385611",
-        "CONCEPT_ID": 40102657,
-        "CONCEPT_NAME": "propiverine Oral Tablet",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "55175",
+        "CONCEPT_ID": 19077093,
+        "CONCEPT_NAME": "propiverine",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "RxNorm"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "G04BD06",
+        "CONCEPT_ID": 21602639,
+        "CONCEPT_NAME": "propiverine; oral",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,
