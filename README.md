@@ -79,10 +79,10 @@ How to run
 	        runPrescriptionNum = TRUE,
 	        runDUR = TRUE,
 	        resultsToZip = TRUE,
-	        yearStartDate = as.Date("2006-01-01"),
-	        yearEndDate = as.Date("2022-12-31"),
-	        monthStartDate = as.Date("2006-01-01"),
-	        monthEndDate = as.Date("2022-12-31"))
+            yearStartDate = as.Date("2018-01-01"),
+            yearEndDate = as.Date("2022-04-30"),
+            monthStartDate = as.Date("2018-01-01"),
+            monthEndDate = as.Date("2022-04-30"))
 
 	```
 
