@@ -1,5 +1,10 @@
 # SAGE
 
+Objective
+============
+
+The overall goal of this project is to conduct a systematic, multinational study to investigate the monthly prescribing patterns (the number of patients prescribed drugs with safety warning, prescriptions, prescription duration, first prescription, and days' supply of the first prescription) before and after the regulatory decisions for drug safety surveillance on warning drugs. 
+
 Requirements
 ============
 

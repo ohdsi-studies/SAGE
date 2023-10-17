@@ -2,10 +2,10 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "378442",
-        "CONCEPT_ID": 40065512,
-        "CONCEPT_NAME": "mirtazapine Disintegrating Oral Tablet",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "15996",
+        "CONCEPT_ID": 725131,
+        "CONCEPT_NAME": "mirtazapine",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -19,16 +19,16 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "378384",
-        "CONCEPT_ID": 40065515,
-        "CONCEPT_NAME": "mirtazapine Oral Tablet",
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "N06AX11",
+        "CONCEPT_ID": 21604740,
+        "CONCEPT_NAME": "mirtazapine; oral",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,

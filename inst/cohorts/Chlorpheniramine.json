@@ -2,16 +2,16 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371447",
-        "CONCEPT_ID": 40023993,
-        "CONCEPT_NAME": "chlorpheniramine Oral Tablet",
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "R06AB04",
+        "CONCEPT_ID": 21603462,
+        "CONCEPT_NAME": "chlorphenamine; systemic",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -19,78 +19,10 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371441",
-        "CONCEPT_ID": 40023990,
-        "CONCEPT_NAME": "chlorpheniramine Oral Capsule",
-        "DOMAIN_ID": "Drug",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "OMOP1003158",
-        "CONCEPT_ID": 36885613,
-        "CONCEPT_NAME": "Chlorpheniramine Oral Granules",
-        "DOMAIN_ID": "Drug",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm Extension"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371445",
-        "CONCEPT_ID": 40023991,
-        "CONCEPT_NAME": "chlorpheniramine Oral Solution",
-        "DOMAIN_ID": "Drug",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371451",
-        "CONCEPT_ID": 40023992,
-        "CONCEPT_NAME": "chlorpheniramine Oral Suspension",
-        "DOMAIN_ID": "Drug",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371444",
-        "CONCEPT_ID": 40023987,
-        "CONCEPT_NAME": "chlorpheniramine Injectable Solution",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2400",
+        "CONCEPT_ID": 1192710,
+        "CONCEPT_NAME": "chlorpheniramine",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",

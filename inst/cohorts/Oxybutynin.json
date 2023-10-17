@@ -2,16 +2,33 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "373193",
-        "CONCEPT_ID": 40102617,
-        "CONCEPT_NAME": "oxybutynin Oral Tablet",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "32675",
+        "CONCEPT_ID": 918906,
+        "CONCEPT_NAME": "oxybutynin",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
         "STANDARD_CONCEPT": "S",
         "STANDARD_CONCEPT_CAPTION": "Standard",
         "VOCABULARY_ID": "RxNorm"
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "G04BD04",
+        "CONCEPT_ID": 21602637,
+        "CONCEPT_NAME": "oxybutynin; oral, transdermal",
+        "DOMAIN_ID": "Drug",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,

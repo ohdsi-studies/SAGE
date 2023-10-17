@@ -2,10 +2,10 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "372377",
-        "CONCEPT_ID": 40046616,
-        "CONCEPT_NAME": "haloperidol Oral Tablet",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "5093",
+        "CONCEPT_ID": 766529,
+        "CONCEPT_NAME": "haloperidol",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -19,33 +19,16 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "372375",
-        "CONCEPT_ID": 40046606,
-        "CONCEPT_NAME": "haloperidol Injectable Solution",
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "N05AD01",
+        "CONCEPT_ID": 21604516,
+        "CONCEPT_NAME": "haloperidol; systemic",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
-      },
-      "isExcluded": false,
-      "includeDescendants": true,
-      "includeMapped": false
-    },
-    {
-      "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "1719645",
-        "CONCEPT_ID": 35603237,
-        "CONCEPT_NAME": "haloperidol Injection",
-        "DOMAIN_ID": "Drug",
-        "INVALID_REASON": "V",
-        "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm"
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,

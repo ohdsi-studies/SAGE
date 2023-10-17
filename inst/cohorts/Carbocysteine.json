@@ -2,10 +2,10 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "371280",
-        "CONCEPT_ID": 40021844,
-        "CONCEPT_NAME": "carbocysteine Oral Capsule",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "2023",
+        "CONCEPT_ID": 19041843,
+        "CONCEPT_NAME": "carbocysteine",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
@@ -19,16 +19,16 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "OMOP4674565",
-        "CONCEPT_ID": 42947974,
-        "CONCEPT_NAME": "Carbocysteine Oral Suspension",
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "R05CB03",
+        "CONCEPT_ID": 21603382,
+        "CONCEPT_NAME": "carbocisteine; oral",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm Extension"
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,

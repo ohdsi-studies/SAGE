@@ -2,16 +2,16 @@
   "items": [
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "OMOP4694312",
-        "CONCEPT_ID": 42967863,
-        "CONCEPT_NAME": "Solifenacin Disintegrating Oral Tablet",
+        "CONCEPT_CLASS_ID": "ATC 5th",
+        "CONCEPT_CODE": "G04BD08",
+        "CONCEPT_ID": 21602641,
+        "CONCEPT_NAME": "solifenacin; oral",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
-        "STANDARD_CONCEPT": "S",
-        "STANDARD_CONCEPT_CAPTION": "Standard",
-        "VOCABULARY_ID": "RxNorm Extension"
+        "STANDARD_CONCEPT": "C",
+        "STANDARD_CONCEPT_CAPTION": "Classification",
+        "VOCABULARY_ID": "ATC"
       },
       "isExcluded": false,
       "includeDescendants": true,
@@ -19,10 +19,10 @@
     },
     {
       "concept": {
-        "CONCEPT_CLASS_ID": "Clinical Drug Form",
-        "CONCEPT_CODE": "477371",
-        "CONCEPT_ID": 40083654,
-        "CONCEPT_NAME": "solifenacin Oral Tablet",
+        "CONCEPT_CLASS_ID": "Ingredient",
+        "CONCEPT_CODE": "322167",
+        "CONCEPT_ID": 916005,
+        "CONCEPT_NAME": "solifenacin",
         "DOMAIN_ID": "Drug",
         "INVALID_REASON": "V",
         "INVALID_REASON_CAPTION": "Valid",
