@@ -3,6 +3,19 @@
 Objective
 ============
 
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
+
+- Analytics use case(s): **Characterization**
+- Study type: **Clinical Application**
+- Tags: **Regulatory Decision**
+- Study lead: **Seng Chan You, Subin Kim, Sunji Kim**
+- Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/scyou/)**
+- Study start date: 2023-05-16
+- Study end date: 
+- Protocol: -
+- Publications: -
+- Results explorer: -
+
 The overall goal of this project is to conduct a systematic, multinational study to investigate the monthly prescribing patterns (the number of patients prescribed drugs with safety warning, prescriptions, prescription duration, first prescription, and days' supply of the first prescription) before and after the regulatory decisions for drug safety surveillance on warning drugs. 
 
 Requirements
