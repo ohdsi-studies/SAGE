@@ -8,7 +8,7 @@ Objective
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
 - Tags: **Regulatory Decision**
-- Study lead: **Seng Chan You, Subin Kim, Sunji Kim**
+- Study lead: **Seng Chan You, Subin Kim, Seonji Kim**
 - Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/scyou/)**
 - Study start date: 2023-05-16
 - Study end date: 
@@ -16,7 +16,13 @@ Objective
 - Publications: -
 - Results explorer: -
 
-The overall goal of this project is to conduct a systematic, multinational study to investigate the monthly prescribing patterns (the number of patients prescribed drugs with safety warning, prescriptions, prescription duration, first prescription, and days' supply of the first prescription) before and after the regulatory decisions for drug safety surveillance on warning drugs. 
+
+Medication use assessment has an important role in promoting the rational use of medicines. The examination of prescribing patterns is particularly valuable for policymakers and healthcare professionals, as it enables informed decision-making at a national level. However, few previous studies explored the prescription pattern for several drugs announced in regulatory decisions. 
+
+In this study, we aim to evaluate the effect of the regulatory decisions for drug safety surveillance on medication use. We will conduct a systematic, multinational study to investigate the monthly prescribing patterns (the number of patients prescribed drugs with safety warnings, prescriptions, prescription duration, first prescription, and first prescription days' supply of the first prescription) on safety warning drugs.
+
+Using the SAGE package, we can extract the number of patients prescribed drugs with a safety warning, prescriptions, prescription duration, first prescription, and first prescription days' supply of the first prescriptions stratified by monthly calendar date, providing a detailed view of drug utilization patterns over time. 
+After receiving the study results from co-researchers, we will apply an Autoregressive Integrated Moving Average (ARIMA) model to assess whether there are significant changes in prescribing following the publication of safety warnings.
 
 Requirements
 ============
