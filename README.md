@@ -1,7 +1,5 @@
-# SAGE
-
-Objective
-============
+SAGE
+====
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
@@ -15,7 +13,6 @@ Objective
 - Protocol: -
 - Publications: -
 - Results explorer: -
-
 
 Medication use assessment has an important role in promoting the rational use of medicines. The examination of prescribing patterns is particularly valuable for policymakers and healthcare professionals, as it enables informed decision-making at a national level. However, few previous studies explored the prescription pattern for several drugs announced in regulatory decisions. 
 
